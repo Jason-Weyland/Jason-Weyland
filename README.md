@@ -1,16 +1,13 @@
-## Hi there 👋
+# Jason Weyland
 
-<!--
-**Jason-Weyland/Jason-Weyland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer based in Chattanooga, TN. React, TypeScript, and modern build tooling, with hands-on experience leading framework migrations, building micro-frontend systems, and architecting design-system component libraries.
 
-Here are some ideas to get you started:
+## Where to find my work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my recent work (2023–present) lives on a separate GitHub account managed by my employer for client work on AAA game brands (NBA 2K, WWE 2K, Civilization, Borderlands, and others). That account is not publicly visible.
+
+For details on recent initiatives, reach out directly.
+
+## Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jason-weyland-4a3703119)
